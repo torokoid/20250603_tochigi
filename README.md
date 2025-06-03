@@ -142,7 +142,7 @@ p.note { display: none; }
     
     
     
-<h2><span class="yellow">1日最初の画像は図書館裏の森<br>画像クリックで森の鶯、鳴き声動画を再生します</span></h2>
+<h2><span class="yellow">1日最初の画像は図書館裏の森<br>画像クリックで森の鶯、鳴き声動画を再生します<br>音が小さめなのでボリューム上げてください</span></h2>
 <a href="20250603_001.mov" target="_blank"><img src="20250603_001.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">1日の空は低空の雲が地平まで続いていました</span></h2>
