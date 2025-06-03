@@ -158,7 +158,7 @@ p.note { display: none; }
 <a href="20250603_004.JPG" target="_blank"><img src="20250603_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250603_005.JPG" target="_blank"><img src="20250603_005.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">2日は一明の曇り空</span></h2>
+<h2><span class="yellow">2日は一面の曇り空</span></h2>
 <a href="20250603_006.JPG" target="_blank"><img src="20250603_006.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">ベルモールのお花屋さんでお花を撮ります</span></h2>
