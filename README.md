@@ -167,7 +167,7 @@ p.note { display: none; }
 <a href="20250603_009.JPG" target="_blank"><img src="20250603_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250603_010.JPG" target="_blank"><img src="20250603_010.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">庭の木には可愛らしいのがたくさんつきました</span></h2>
+<h2><span class="yellow">庭の木には可愛らしい実がたくさんつきました</span></h2>
 <a href="20250603_011.JPG" target="_blank"><img src="20250603_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250603_012.JPG" target="_blank"><img src="20250603_012.JPG" alt="サンプル画像" width="900" /></a>
     
