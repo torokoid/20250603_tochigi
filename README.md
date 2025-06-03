@@ -148,7 +148,7 @@ p.note { display: none; }
 <h2><span class="yellow">1日の空は低空の雲が地平まで続いていました</span></h2>
 <a href="20250603_001.JPG" target="_blank"><img src="20250603_001.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">プールの花壇にはアザミがにっこり</span></h2>
+<h2><span class="yellow">プールの花壇ではアザミがにっこり</span></h2>
 <a href="20250603_002.JPG" target="_blank"><img src="20250603_002.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">お昼はいつもの大戸屋で定食</span></h2>
